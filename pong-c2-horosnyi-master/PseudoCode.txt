@@ -1,0 +1,11 @@
+If location is inside collision zone
+{
+	Create a vector from last and current position
+	Slice vector with possible obstruction
+	Find meeting Point
+	Check if meeting Point is within bounds of object and vector
+	If there is a valid meeting point
+	{
+		Change position, speed and angle of ball
+	}
+}
